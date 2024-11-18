@@ -32,7 +32,7 @@ ethscanner/
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/mnishant04/tx_parser.git
    cd ethscanner
    ```
 
